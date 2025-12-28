@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Muhammad Nizar Alwi</h1>
 
 🎓 **Informatics Engineering Student**
-💻 **Aspiring Backend & Web Development**  
+💻 **Aspiring Backend & Web Developer**  
 📍 [Jakarta, Indonesia]
 
 ## About Me
