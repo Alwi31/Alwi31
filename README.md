@@ -1,14 +1,19 @@
-# Hi 👋, I'm Muhammad Nizar Alwi
+# <h1 align="center">Hi 👋, I'm Muhammad Nizar Alwi</h1>
 
-### Junior Web Developer
+🎓 **Informatics Engineering Student**
+💻 **Aspiring Backend & Web Developer**  
+📍 [Jakarta, Indonesia]
 
-- 🔭 I'm currently working on **Informatics Engineering Student at STIKOM CKI Jakarta**
+## About Me
 
-- 🌱 I'm currently learning **CodeIgniter3 / Laravel Framework**
+I am a **student at STIKOM CKI Jakarta** with a strong passion for **Web Development**, especially in **Backend Engineering**.  
+I enjoy designing APIs, working with databases, and building scalable backend systems while continuously improving my problem-solving skills.
 
-- 💬 Ask me about **Web Development**
+- 🔭 Currently working on: **Backend & Web-Based projects**
+- 🌱 I'm currently learning **Backend architecture, REST API, databases and Laravel Framework**
+- 💡 Interests: **Backend Development, Web Systems, Software Engineering**
 
-- 📫 How to reach me **nizaaralwi@gmail.com**
+- 📫 Reach me at: **nizaaralwi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
